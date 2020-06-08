@@ -1,0 +1,260 @@
+{
+  "uid" : "622e2751a13adc00",
+  "name" : "Verify user is able to add the title in a list by clicking add to list",
+  "fullName" : "tests.test_login#test_TelevisionAddMovieToList",
+  "historyId" : "4cc869c8ecd82cfb3ca1e2f1ea625b57",
+  "time" : {
+    "start" : 1591097306122,
+    "stop" : 1591097339963,
+    "duration" : 33841
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "config",
+    "time" : {
+      "start" : 1591097217914,
+      "stop" : 1591097217914,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config_wait_time",
+    "time" : {
+      "start" : 1591097217914,
+      "stop" : 1591097217914,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "browser",
+    "time" : {
+      "start" : 1591097217915,
+      "stop" : 1591097225056,
+      "duration" : 7141
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config_browser",
+    "time" : {
+      "start" : 1591097217914,
+      "stop" : 1591097217914,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config_executor",
+    "time" : {
+      "start" : 1591097217915,
+      "stop" : 1591097217915,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Verify Movie card add to list button is displayed",
+      "time" : {
+        "start" : 1591097306122,
+        "stop" : 1591097306790,
+        "duration" : 668
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click Add to list",
+      "time" : {
+        "start" : 1591097306790,
+        "stop" : 1591097307065,
+        "duration" : 275
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Add to list search box",
+      "time" : {
+        "start" : 1591097307065,
+        "stop" : 1591097307106,
+        "duration" : 41
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click list toggle button and Verify it is selected/unselected",
+      "time" : {
+        "start" : 1591097307107,
+        "stop" : 1591097313473,
+        "duration" : 6366
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Click Add movie to list",
+      "time" : {
+        "start" : 1591097313473,
+        "stop" : 1591097315735,
+        "duration" : 2262
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Verify add to list added button is displayed",
+      "time" : {
+        "start" : 1591097315735,
+        "stop" : 1591097339963,
+        "duration" : 24228
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1591097357167,
+      "stop" : 1591097359284,
+      "duration" : 2117
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-R2VTNMP"
+  }, {
+    "name" : "thread",
+    "value" : "9516-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "131501bf45a87596",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097125727,
+        "stop" : 1591097159323,
+        "duration" : 33596
+      }
+    }, {
+      "uid" : "79a1294f32cd318f",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <button _ngcontent-serverapp-c10=\"\" class=\"cui-btn btn-movie\">...</button> is not clickable at point (400, 24). Other element would receive the click: <ngb-modal-window role=\"dialog\" tabindex=\"-1\" class=\"modal fade show d-block player-popup-xl\" aria-modal=\"true\">...</ngb-modal-window>\n  (Session info: headless chrome=83.0.4103.61)",
+      "time" : {
+        "start" : 1591091509954,
+        "stop" : 1591091511693,
+        "duration" : 1739
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "622e2751a13adc00.json",
+  "parameterValues" : [ ]
+}

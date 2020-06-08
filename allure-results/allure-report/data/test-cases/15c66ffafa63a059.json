@@ -1,0 +1,248 @@
+{
+  "uid" : "15c66ffafa63a059",
+  "name" : "Verify carousel image set by admin is visible",
+  "fullName" : "tests.test_login#test_verifycarousalimage",
+  "historyId" : "17d1361f7ed619872bdcbd6e105cf3c1",
+  "time" : {
+    "start" : 1591102784046,
+    "stop" : 1591102784069,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "config_wait_time",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102763934,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config",
+    "time" : {
+      "start" : 1591102763933,
+      "stop" : 1591102763934,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config_browser",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102763934,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "browser",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102770626,
+      "duration" : 6692
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config_executor",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102763934,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "verify carousel image set by admin",
+      "time" : {
+        "start" : 1591102784046,
+        "stop" : 1591102784069,
+        "duration" : 23
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1591102862555,
+      "stop" : 1591102874628,
+      "duration" : 12073
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-R2VTNMP"
+  }, {
+    "name" : "thread",
+    "value" : "5172-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e80d78c8f498b951",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591101418311,
+        "stop" : 1591101418370,
+        "duration" : 59
+      }
+    }, {
+      "uid" : "967013fc4d733b59",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591099114462,
+        "stop" : 1591099114522,
+        "duration" : 60
+      }
+    }, {
+      "uid" : "467c132470042efa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591098736288,
+        "stop" : 1591098736314,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "4eccf454c1c2bf29",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591098488156,
+        "stop" : 1591098488200,
+        "duration" : 44
+      }
+    }, {
+      "uid" : "6d7c63aa89648fee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097959062,
+        "stop" : 1591097959152,
+        "duration" : 90
+      }
+    }, {
+      "uid" : "10f04a499799dd83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097643804,
+        "stop" : 1591097643828,
+        "duration" : 24
+      }
+    }, {
+      "uid" : "ae8eef76eca8258a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097235369,
+        "stop" : 1591097235392,
+        "duration" : 23
+      }
+    }, {
+      "uid" : "2adcc78a9ffd4f98",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097053928,
+        "stop" : 1591097053984,
+        "duration" : 56
+      }
+    }, {
+      "uid" : "4ae34c524c40070e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591096769873,
+        "stop" : 1591096769938,
+        "duration" : 65
+      }
+    }, {
+      "uid" : "50753566dd4c44e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591090233316,
+        "stop" : 1591090233337,
+        "duration" : 21
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "15c66ffafa63a059.json",
+  "parameterValues" : [ ]
+}

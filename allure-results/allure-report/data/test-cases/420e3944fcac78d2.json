@@ -1,0 +1,266 @@
+{
+  "uid" : "420e3944fcac78d2",
+  "name" : "verify user is successfully logged in",
+  "fullName" : "tests.test_login#test_login",
+  "historyId" : "144503cdd62308bf9f77a1ff306826fa",
+  "time" : {
+    "start" : 1591102796242,
+    "stop" : 1591102811146,
+    "duration" : 14904
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "config_wait_time",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102763934,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config",
+    "time" : {
+      "start" : 1591102763933,
+      "stop" : 1591102763934,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config_browser",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102763934,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "browser",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102770626,
+      "duration" : 6692
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config_executor",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102763934,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "verify user is successfully logged in",
+      "time" : {
+        "start" : 1591102796243,
+        "stop" : 1591102798842,
+        "duration" : 2599
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "password",
+        "value" : "'JNpR4dWX:A3cn'"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "Verify user with valid email id can proceed to next step",
+      "time" : {
+        "start" : 1591102798842,
+        "stop" : 1591102799062,
+        "duration" : 220
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1591102862555,
+      "stop" : 1591102874628,
+      "duration" : 12073
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-R2VTNMP"
+  }, {
+    "name" : "thread",
+    "value" : "5172-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3838c63643397a69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591101430449,
+        "stop" : 1591101444967,
+        "duration" : 14518
+      }
+    }, {
+      "uid" : "3107b333fea02f28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591099125675,
+        "stop" : 1591099141404,
+        "duration" : 15729
+      }
+    }, {
+      "uid" : "a25ea857f837698",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591098747927,
+        "stop" : 1591098762497,
+        "duration" : 14570
+      }
+    }, {
+      "uid" : "adaac09c1b9e1fdb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591098499790,
+        "stop" : 1591098515564,
+        "duration" : 15774
+      }
+    }, {
+      "uid" : "fd646e2a7c7797ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097971400,
+        "stop" : 1591097985710,
+        "duration" : 14310
+      }
+    }, {
+      "uid" : "fdb4c01d5b7f0f96",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097654824,
+        "stop" : 1591097669382,
+        "duration" : 14558
+      }
+    }, {
+      "uid" : "b66c9b71820aa21d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097246599,
+        "stop" : 1591097261232,
+        "duration" : 14633
+      }
+    }, {
+      "uid" : "4480f5a5b0a79b86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097064891,
+        "stop" : 1591097079481,
+        "duration" : 14590
+      }
+    }, {
+      "uid" : "711dac53ab540312",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591096781502,
+        "stop" : 1591096796327,
+        "duration" : 14825
+      }
+    }, {
+      "uid" : "104f770bfc7143ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591090246312,
+        "stop" : 1591090261022,
+        "duration" : 14710
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "420e3944fcac78d2.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,108 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.TimeoutException: Message:",
+      "children" : [ {
+        "name" : "Verify carousel auto-progress as per transition time set in CMS",
+        "uid" : "e55de2bc20e03233",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591090272795,
+          "stop" : 1591090340183,
+          "duration" : 67388
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Veirfy when there are more than 4 titles then progress bar auto-progresses",
+        "uid" : "ebed74330d6c62f8",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591090341176,
+          "stop" : 1591090397780,
+          "duration" : 56604
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Currated List: Verify is able to share list and reciever recieves it",
+        "uid" : "768fb358df76d2f9",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591091134333,
+          "stop" : 1591091247039,
+          "duration" : 112706
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Currated List: Veirfy user is able to Share List(s) from Share Button in the fotter pop up",
+        "uid" : "f1310e9e8c2b44d6",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591091247504,
+          "stop" : 1591091368975,
+          "duration" : 121471
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TC : 3.51, Verify Trailer is shown as per selected levels",
+        "uid" : "52610c4acae06d48",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591093790465,
+          "stop" : 1591093813593,
+          "duration" : 23128
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TC: 3.52, Verify Photos is shown as per selected levels",
+        "uid" : "fe1f7d5b91b53fe0",
+        "parentUid" : "31bb78a6a95ede3f78b260ed048910d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591093814164,
+          "stop" : 1591093837271,
+          "duration" : 23107
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "31bb78a6a95ede3f78b260ed048910d8"
+    }, {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Watch trailer')]\"}\n  (Session info: headless chrome=83.0.4103.61)",
+      "children" : [ {
+        "name" : "TC: 3.43, Verify elements in header of TV Details page on Season Level",
+        "uid" : "42ed4903e3ac0886",
+        "parentUid" : "efc94c29c6baf9b46aeeeb9ee2a2f752",
+        "status" : "broken",
+        "time" : {
+          "start" : 1591093620652,
+          "stop" : 1591093663951,
+          "duration" : 43299
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "efc94c29c6baf9b46aeeeb9ee2a2f752"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

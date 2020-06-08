@@ -1,0 +1,248 @@
+{
+  "uid" : "f46339aa6ed6d0d7",
+  "name" : "On each visit user see different carousel image",
+  "fullName" : "tests.test_login#test_differentcarouselimage",
+  "historyId" : "317ed79e577a3bce66c1916250b99b3f",
+  "time" : {
+    "start" : 1591102784072,
+    "stop" : 1591102791582,
+    "duration" : 7510
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "config_wait_time",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102763934,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config",
+    "time" : {
+      "start" : 1591102763933,
+      "stop" : 1591102763934,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config_browser",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102763934,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "browser",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102770626,
+      "duration" : 6692
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "config_executor",
+    "time" : {
+      "start" : 1591102763934,
+      "stop" : 1591102763934,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "On each visit user see different carousel image",
+      "time" : {
+        "start" : 1591102784072,
+        "stop" : 1591102791582,
+        "duration" : 7510
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ {
+    "name" : "browser::0",
+    "time" : {
+      "start" : 1591102862555,
+      "stop" : 1591102874628,
+      "duration" : 12073
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-R2VTNMP"
+  }, {
+    "name" : "thread",
+    "value" : "5172-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "13333e81bee3b360",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591101418381,
+        "stop" : 1591101426924,
+        "duration" : 8543
+      }
+    }, {
+      "uid" : "814e4163ef74da4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591099114530,
+        "stop" : 1591099122360,
+        "duration" : 7830
+      }
+    }, {
+      "uid" : "d96db19c6a7e7d14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591098736317,
+        "stop" : 1591098743723,
+        "duration" : 7406
+      }
+    }, {
+      "uid" : "a4a95ea0f814f1df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591098488207,
+        "stop" : 1591098495991,
+        "duration" : 7784
+      }
+    }, {
+      "uid" : "718d2cf6db9c8cd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097959162,
+        "stop" : 1591097967391,
+        "duration" : 8229
+      }
+    }, {
+      "uid" : "12deed74d3bb2110",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097643831,
+        "stop" : 1591097651366,
+        "duration" : 7535
+      }
+    }, {
+      "uid" : "54c28a8ce86f1300",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097235396,
+        "stop" : 1591097243178,
+        "duration" : 7782
+      }
+    }, {
+      "uid" : "3d33aa04eb64a937",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591097053987,
+        "stop" : 1591097061167,
+        "duration" : 7180
+      }
+    }, {
+      "uid" : "c7f88614f9346bf5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591096769953,
+        "stop" : 1591096778061,
+        "duration" : 8108
+      }
+    }, {
+      "uid" : "e7a3588ebd5f7a73",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591090233341,
+        "stop" : 1591090242810,
+        "duration" : 9469
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f46339aa6ed6d0d7.json",
+  "parameterValues" : [ ]
+}

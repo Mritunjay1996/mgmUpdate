@@ -1,0 +1,2151 @@
+[ {
+  "uid" : "6359447b27749110",
+  "name" : "Verify user is able to move to next slider by clicking Right Nagivation Arrow",
+  "time" : {
+    "start" : 1591090924120,
+    "stop" : 1591090933854,
+    "duration" : 9734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3df8fc6231a8171f",
+  "name" : "TC: 3.15, Verify user is able to play trailer by clicking Watch Trailer button",
+  "time" : {
+    "start" : 1591093165984,
+    "stop" : 1591093200982,
+    "duration" : 34998
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7520fa5939ff046",
+  "name" : "tc-46,To verify delete title in the list",
+  "time" : {
+    "start" : 1591102167083,
+    "stop" : 1591102234090,
+    "duration" : 67007
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79a0c830d45c736e",
+  "name" : "Verify Left Navigation Arrow is disabled when we are on the first card in the list",
+  "time" : {
+    "start" : 1591090967676,
+    "stop" : 1591090992986,
+    "duration" : 25310
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "257b4aead7b4cb97",
+  "name" : "TC: 1.58, Verify functionality of Watch Movie button",
+  "time" : {
+    "start" : 1591091663604,
+    "stop" : 1591091703817,
+    "duration" : 40213
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "360576acdd96cc9",
+  "name" : "Main Carousel: Verify user is able to un-select any selected list(s)",
+  "time" : {
+    "start" : 1591090624629,
+    "stop" : 1591090630893,
+    "duration" : 6264
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3acf04ad8d58c504",
+  "name" : "Movie Card: Verify user is able to add to multiple movies in same list",
+  "time" : {
+    "start" : 1591090885339,
+    "stop" : 1591090924113,
+    "duration" : 38774
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52b449b27c50ceed",
+  "name" : "TC: 1.66, Verify Right Navigation Arrow is disabled when we are on the last card in the list",
+  "time" : {
+    "start" : 1591091780149,
+    "stop" : 1591091799138,
+    "duration" : 18989
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "42ed4903e3ac0886",
+  "name" : "TC: 3.43, Verify elements in header of TV Details page on Season Level",
+  "time" : {
+    "start" : 1591093620652,
+    "stop" : 1591093663951,
+    "duration" : 43299
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7d60389a437f2030",
+  "name" : "Main Carousel: Verify elements in Add To List pop",
+  "time" : {
+    "start" : 1591090550051,
+    "stop" : 1591090552813,
+    "duration" : 2762
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc7b3ad5eb778552",
+  "name" : "My List: Verify golbal footer is present",
+  "time" : {
+    "start" : 1591099150425,
+    "stop" : 1591099167037,
+    "duration" : 16612
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d03db95626b5df07",
+  "name" : "Verify one sheet overlay is present on the movie cards in the grid view and all buttons are visible on hover",
+  "time" : {
+    "start" : 1591097289090,
+    "stop" : 1591097291635,
+    "duration" : 2545
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5bf0362a6d56966",
+  "name" : "TC: 1.111, Verify on click of List card, user is redirected to List Detail page",
+  "time" : {
+    "start" : 1591092427559,
+    "stop" : 1591092431985,
+    "duration" : 4426
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3611177c6da9aa2",
+  "name" : "Verify Left Navigation Arrow is visible only when we hover on the first card on the left",
+  "time" : {
+    "start" : 1591091047643,
+    "stop" : 1591091048616,
+    "duration" : 973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba0a36d8c8d1e72b",
+  "name" : "Verify on click of Title name redirectes to Title details page",
+  "time" : {
+    "start" : 1591091527330,
+    "stop" : 1591091535230,
+    "duration" : 7900
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b793a3e5566abf70",
+  "name" : "TC : 1.64, Verify Right Navigation Arrow is visible only when we hover on the last card on the right",
+  "time" : {
+    "start" : 1591091757147,
+    "stop" : 1591091775994,
+    "duration" : 18847
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b06f8fcea12483bc",
+  "name" : "TC: 1.55, Verify elements for each Movie card in recently watched",
+  "time" : {
+    "start" : 1591091649483,
+    "stop" : 1591091649591,
+    "duration" : 108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1310e9e8c2b44d6",
+  "name" : "Currated List: Veirfy user is able to Share List(s) from Share Button in the fotter pop up",
+  "time" : {
+    "start" : 1591091247504,
+    "stop" : 1591091368975,
+    "duration" : 121471
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c7239b206c042294",
+  "name" : "TC: 1.110, Verify user is able to see Curated List in My List section of homepage",
+  "time" : {
+    "start" : 1591092415320,
+    "stop" : 1591092427549,
+    "duration" : 12229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd580a23122ff592",
+  "name" : "tc-35,User should be able to navigate between photos by clicking the arrows",
+  "time" : {
+    "start" : 1591095402643,
+    "stop" : 1591095406915,
+    "duration" : 4272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f23a8202bfaf49a0",
+  "name" : "TC: 2.34, Verify Delete button is not shown in footer pop up when both Curated & User Created lists are selected",
+  "time" : {
+    "start" : 1591092854729,
+    "stop" : 1591092866849,
+    "duration" : 12120
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa13169042a71ad",
+  "name" : "TC: 1.100, Verify user is able to clear search on click of Clear button",
+  "time" : {
+    "start" : 1591092218146,
+    "stop" : 1591092224426,
+    "duration" : 6280
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc1118d11d5fa9c3",
+  "name" : "My List: Verify two section on My List page",
+  "time" : {
+    "start" : 1591099145925,
+    "stop" : 1591099148200,
+    "duration" : 2275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69444bb7a5c2c9d7",
+  "name" : "TC: 1.50, Verify elements for Recently Watched section",
+  "time" : {
+    "start" : 1591091633047,
+    "stop" : 1591091649474,
+    "duration" : 16427
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e55de2bc20e03233",
+  "name" : "Verify carousel auto-progress as per transition time set in CMS",
+  "time" : {
+    "start" : 1591090272795,
+    "stop" : 1591090340183,
+    "duration" : 67388
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2eab588be349e6f1",
+  "name" : "TC: 2.31, Veirfy user is able to Share List(s) from Share Button in the fotter pop up",
+  "time" : {
+    "start" : 1591092708080,
+    "stop" : 1591092747718,
+    "duration" : 39638
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be304f406ff6ff43",
+  "name" : "TC: 1.107, Verify elements for My List section",
+  "time" : {
+    "start" : 1591092360501,
+    "stop" : 1591092373880,
+    "duration" : 13379
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c88ecc0a677e406",
+  "name" : "TC: 2.33, Verify user is able to select both Curated & User Created lists",
+  "time" : {
+    "start" : 1591092840048,
+    "stop" : 1591092854719,
+    "duration" : 14671
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e12be81b71e5fc0a",
+  "name" : "TC: 2.19, Verify columns/elements of List table",
+  "time" : {
+    "start" : 1591092472599,
+    "stop" : 1591092482893,
+    "duration" : 10294
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f61e510a8eb4870",
+  "name" : "TC: 2.18, Verify elements in User Created Lists section",
+  "time" : {
+    "start" : 1591092464078,
+    "stop" : 1591092472588,
+    "duration" : 8510
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77ece180ba6ee29c",
+  "name" : "TC: 2.27, Verify clicking on Delete button, share pop up is shown",
+  "time" : {
+    "start" : 1591092581461,
+    "stop" : 1591092598153,
+    "duration" : 16692
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e0175c6ce20c22d",
+  "name" : "Television: Verify user is able to apply multiple Genres filters",
+  "time" : {
+    "start" : 1591091445060,
+    "stop" : 1591091453653,
+    "duration" : 8593
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89bd46588ca8cc59",
+  "name" : "My List: Verify on click on List name user is redirected to List Detail page",
+  "time" : {
+    "start" : 1591091125783,
+    "stop" : 1591091126063,
+    "duration" : 280
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5295a8ca11c8b0",
+  "name" : "TC: 3.14, Verify user is able to play movie by clicking Watch Movie button",
+  "time" : {
+    "start" : 1591093120281,
+    "stop" : 1591093165973,
+    "duration" : 45692
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad701a1fa55e51c5",
+  "name" : "TC: 3.42, Verify user is able to Add TV Series to list(s)",
+  "time" : {
+    "start" : 1591093585625,
+    "stop" : 1591093620639,
+    "duration" : 35014
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10d8e4e0f80363e0",
+  "name" : "tc-4,Verify My List is underlined in Menu",
+  "time" : {
+    "start" : 1591094762077,
+    "stop" : 1591094774231,
+    "duration" : 12154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f71022513964ff59",
+  "name" : "Movie Card: Verify user is able to un-select list(s) from search result",
+  "time" : {
+    "start" : 1591090872292,
+    "stop" : 1591090878534,
+    "duration" : 6242
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a6dfec622d5607e",
+  "name" : "TC: 1.56, Verify hover behavior on movie cards",
+  "time" : {
+    "start" : 1591098074658,
+    "stop" : 1591098084309,
+    "duration" : 9651
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6aefffbcbd59c283",
+  "name" : "TC: 1.99, Verify user is able to search a list from the search bar",
+  "time" : {
+    "start" : 1591092175565,
+    "stop" : 1591092218133,
+    "duration" : 42568
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36812384f86b5e7e",
+  "name" : "tc-32,Verify elements in Trailer section of TV Details page",
+  "time" : {
+    "start" : 1591095348370,
+    "stop" : 1591095376950,
+    "duration" : 28580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8c57d40a28d5e8b8",
+  "name" : "TC: 1.108, Verify on click of See All button, user is directed to My List page",
+  "time" : {
+    "start" : 1591092373889,
+    "stop" : 1591092385097,
+    "duration" : 11208
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd9ce294fa24cfaf",
+  "name" : "TC: 3.48, Verify elements in Episodes tab at episode level",
+  "time" : {
+    "start" : 1591093752743,
+    "stop" : 1591093760829,
+    "duration" : 8086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3f4d4e2f68adf78",
+  "name" : "Verify functionality of View Details button",
+  "time" : {
+    "start" : 1591090263656,
+    "stop" : 1591090272783,
+    "duration" : 9127
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3241d774c05c200",
+  "name" : "My List: Verify user is able to select the list by clicking on the checkbox",
+  "time" : {
+    "start" : 1591091098374,
+    "stop" : 1591091104551,
+    "duration" : 6177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "29c40918f1442889",
+  "name" : "Main Carousel: Verify user is abe to search a list from the search bar",
+  "time" : {
+    "start" : 1591090630904,
+    "stop" : 1591090633264,
+    "duration" : 2360
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27159af38390fade",
+  "name" : "TC: 3.23 Verify user is able to Share Title(s) from footer pop up",
+  "time" : {
+    "start" : 1591093866487,
+    "stop" : 1591093895674,
+    "duration" : 29187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47b5dff6b8176c5c",
+  "name" : "Verify click behavior of Left Navigation arrow",
+  "time" : {
+    "start" : 1591091056055,
+    "stop" : 1591091056835,
+    "duration" : 780
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12a97db27172167",
+  "name" : "tc-42,To verify added title to the list",
+  "time" : {
+    "start" : 1591101757609,
+    "stop" : 1591101880380,
+    "duration" : 122771
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc36e79ae034850",
+  "name" : "Verify selecting titles shows footer pop up",
+  "time" : {
+    "start" : 1591091535238,
+    "stop" : 1591091542595,
+    "duration" : 7357
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d7bd0d31c7b836d",
+  "name" : "TC: 2.25, Verify is able to share list and receiver receives it",
+  "time" : {
+    "start" : 1591092537485,
+    "stop" : 1591092572659,
+    "duration" : 35174
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73813b0569334568",
+  "name" : "tc-40,verify user is able to select title using checkbox",
+  "time" : {
+    "start" : 1591101757098,
+    "stop" : 1591101757486,
+    "duration" : 388
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "622e2751a13adc00",
+  "name" : "Verify user is able to add the title in a list by clicking add to list",
+  "time" : {
+    "start" : 1591097306122,
+    "stop" : 1591097339963,
+    "duration" : 33841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ae8a74dd7bfd086",
+  "name" : "Movie Card: Verify on click of Add to List button, Add List pop up is opened",
+  "time" : {
+    "start" : 1591102843564,
+    "stop" : 1591102858244,
+    "duration" : 14680
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "145c73975a3a8317",
+  "name" : "My List: Verify columns/elements of List table",
+  "time" : {
+    "start" : 1591099148212,
+    "stop" : 1591099150415,
+    "duration" : 2203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73aa19e7771eb14b",
+  "name" : "tc-36,Verify functionality of Add to List button",
+  "time" : {
+    "start" : 1591095469822,
+    "stop" : 1591095477990,
+    "duration" : 8168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1728722468cb3532",
+  "name" : "TC: 3.4, Verify pagination is present when there are more than 42 titles in search result",
+  "time" : {
+    "start" : 1591092926131,
+    "stop" : 1591092934274,
+    "duration" : 8143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68d6ab2c90bb2925",
+  "name" : "tc-41,To verify footer section when selected a title",
+  "time" : {
+    "start" : 1591101757497,
+    "stop" : 1591101757597,
+    "duration" : 100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fd47480df8a89a9",
+  "name" : "tc-34,Verify photo elements in tv Details page",
+  "time" : {
+    "start" : 1591095394060,
+    "stop" : 1591095402632,
+    "duration" : 8572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d86628f39bf3d2",
+  "name" : "TC: 2.32, Verify user is able to Delete List(s) from Delete Button in the fotter pop up",
+  "time" : {
+    "start" : 1591092747730,
+    "stop" : 1591092840035,
+    "duration" : 92305
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bc41058ba34ff9d",
+  "name" : "TC: 1.112, Verify golbal footer is present",
+  "time" : {
+    "start" : 1591092431996,
+    "stop" : 1591092464066,
+    "duration" : 32070
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0520a91c41532d5",
+  "name" : "Verify user is able to scroll thorugh the list",
+  "time" : {
+    "start" : 1591090398790,
+    "stop" : 1591090398950,
+    "duration" : 160
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2d4ed3c778ec89f",
+  "name" : "Movie Card: Verify user is able to add same movie in multiple lists",
+  "time" : {
+    "start" : 1591090820503,
+    "stop" : 1591090851345,
+    "duration" : 30842
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ee456f4a9f8f325",
+  "name" : "TC: 1.95, Verify user is able to add the movie in the created list",
+  "time" : {
+    "start" : 1591091877751,
+    "stop" : 1591091970964,
+    "duration" : 93213
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75b193e01f4c7fe8",
+  "name" : "TC: 1.68, Verify click behavior of Left Navigation arrow",
+  "time" : {
+    "start" : 1591091801616,
+    "stop" : 1591091802336,
+    "duration" : 720
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0d846a5f4229cf0",
+  "name" : "Verify the layout of cards in List view",
+  "time" : {
+    "start" : 1591097349509,
+    "stop" : 1591097357164,
+    "duration" : 7655
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16b6c076cec29e5c",
+  "name" : "tc-26,Verify elements in movie details page",
+  "time" : {
+    "start" : 1591094950463,
+    "stop" : 1591095041695,
+    "duration" : 91232
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5f3d6e04e5a278b",
+  "name" : "Main Carousel: Verify user is able to enter name and create new list from Carousel",
+  "time" : {
+    "start" : 1591096814583,
+    "stop" : 1591096866268,
+    "duration" : 51685
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8586283cad7bf116",
+  "name" : "TC: 1.105, Verify created lists are shown in the My Lists slider",
+  "time" : {
+    "start" : 1591092326219,
+    "stop" : 1591092360490,
+    "duration" : 34271
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43f90908e1a37feb",
+  "name" : "My List: Verify elements in Currated List section",
+  "time" : {
+    "start" : 1591091096260,
+    "stop" : 1591091098366,
+    "duration" : 2106
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a6703c601ec69d",
+  "name" : "Main Carousel: Verify user is able to un-select list(s) from search result",
+  "time" : {
+    "start" : 1591090639651,
+    "stop" : 1591090645975,
+    "duration" : 6324
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f5dee3003bdecee",
+  "name" : "TC: 3.11, Verify user is able to switch between grid & list view",
+  "time" : {
+    "start" : 1591093061852,
+    "stop" : 1591093081388,
+    "duration" : 19536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6860ca3de6e905f3",
+  "name" : "Verify Element Present in homepage",
+  "time" : {
+    "start" : 1591090462892,
+    "stop" : 1591090468362,
+    "duration" : 5470
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e06836c628a1cba4",
+  "name" : "Verify click funcationality of See All TV Shows button",
+  "time" : {
+    "start" : 1591091057562,
+    "stop" : 1591091063868,
+    "duration" : 6306
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80d1793936410d72",
+  "name" : "Verify user is able to filter with combination of Genre,Rating&Year filters ",
+  "time" : {
+    "start" : 1591091474298,
+    "stop" : 1591091489691,
+    "duration" : 15393
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b3d028bbcd923a4",
+  "name" : "TC: 2.29, Verify user created list is deleted on click of Delete list button in the pop up ",
+  "time" : {
+    "start" : 1591092602554,
+    "stop" : 1591092686305,
+    "duration" : 83751
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "465e20a3238e00e",
+  "name" : "Movie Card: Verify user is able to select list(s) from search result",
+  "time" : {
+    "start" : 1591090865899,
+    "stop" : 1591090872286,
+    "duration" : 6387
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b635702f87f7b810",
+  "name" : "TC: 2.26, Verify the columns in the attached csv file",
+  "time" : {
+    "start" : 1591092572670,
+    "stop" : 1591092581451,
+    "duration" : 8781
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56c99230b9b4a59e",
+  "name" : "Verify click funcationality of See All Movies button",
+  "time" : {
+    "start" : 1591091063881,
+    "stop" : 1591091079583,
+    "duration" : 15702
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7783594c88f49d0",
+  "name" : "TC: 3.38 Verify the sections on Television Details page",
+  "time" : {
+    "start" : 1591093475327,
+    "stop" : 1591093534424,
+    "duration" : 59097
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4b55b6aea1f4740",
+  "name" : "tc-49,To Verify user is able to Delete list",
+  "time" : {
+    "start" : 1591102234100,
+    "stop" : 1591102329156,
+    "duration" : 95056
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "280909eb614b7774",
+  "name" : "tc-20,Verify all controls of the pop up works correctly",
+  "time" : {
+    "start" : 1591095457734,
+    "stop" : 1591095468910,
+    "duration" : 11176
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15a5ebdcbada9294",
+  "name" : "TC: 1.96, Verify user is able to select list(s)",
+  "time" : {
+    "start" : 1591091970975,
+    "stop" : 1591092008328,
+    "duration" : 37353
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e21a0e88a849d34",
+  "name" : "tc-48,To verify select all titile checkbox",
+  "time" : {
+    "start" : 1591102114074,
+    "stop" : 1591102135158,
+    "duration" : 21084
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62741f1832135f44",
+  "name" : "tc-37,Verify elements of Cast, Crew & Production",
+  "time" : {
+    "start" : 1591095406923,
+    "stop" : 1591095411198,
+    "duration" : 4275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9af61bd042f2e98a",
+  "name" : "tc-44,To verify title in created list",
+  "time" : {
+    "start" : 1591101921819,
+    "stop" : 1591102015103,
+    "duration" : 93284
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1c3e1a661acf93f",
+  "name" : "TC:2.28, Verify on click of Cancel button delete pop up gets closed",
+  "time" : {
+    "start" : 1591092598163,
+    "stop" : 1591092602548,
+    "duration" : 4385
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e44d0fafb0b8cfd4",
+  "name" : "TC: 3.13, Verify on the movie cards in the grid view and all buttons are visible on hover",
+  "time" : {
+    "start" : 1591093081392,
+    "stop" : 1591093120269,
+    "duration" : 38877
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5a853e2dde41fcb",
+  "name" : "verify elements present in login model",
+  "time" : {
+    "start" : 1591102791592,
+    "stop" : 1591102791810,
+    "duration" : 218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a30d5e67d4a4b42",
+  "name" : "TC: 1.53, Verify movies are sorted in correct order",
+  "time" : {
+    "start" : 1591097985713,
+    "stop" : 1591098074648,
+    "duration" : 88935
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c04ab4921738ed16",
+  "name" : "Verify user is able to switch between grid & list view",
+  "time" : {
+    "start" : 1591091524926,
+    "stop" : 1591091527317,
+    "duration" : 2391
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cd4693673df0a1b",
+  "name" : "Main Carousel: Verify user is able to add to multiple sliders in same list",
+  "time" : {
+    "start" : 1591090645986,
+    "stop" : 1591090706224,
+    "duration" : 60238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "768fb358df76d2f9",
+  "name" : "Currated List: Verify is able to share list and reciever recieves it",
+  "time" : {
+    "start" : 1591091134333,
+    "stop" : 1591091247039,
+    "duration" : 112706
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f46339aa6ed6d0d7",
+  "name" : "On each visit user see different carousel image",
+  "time" : {
+    "start" : 1591102784072,
+    "stop" : 1591102791582,
+    "duration" : 7510
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f49f5f26f687cbf9",
+  "name" : "TC: 3.22, Verify user is able to download CSV file of the selected title",
+  "time" : {
+    "start" : 1591093837850,
+    "stop" : 1591093866477,
+    "duration" : 28627
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc7a9901b36bad99",
+  "name" : "tc-36,Verify overlay present in movie card",
+  "time" : {
+    "start" : 1591101730972,
+    "stop" : 1591101751600,
+    "duration" : 20628
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2d49d3093b9ec09",
+  "name" : "Verify user is able to play movie by clicking Watch Movie button",
+  "time" : {
+    "start" : 1591097291645,
+    "stop" : 1591097306107,
+    "duration" : 14462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ecc707957ea498b",
+  "name" : "TC: 2.21, Verify user is able to select multiple list by clicking on the checkbox",
+  "time" : {
+    "start" : 1591092491242,
+    "stop" : 1591092499888,
+    "duration" : 8646
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "527703c094ead93f",
+  "name" : "Verify user with valid email id can proceed to next step",
+  "time" : {
+    "start" : 1591102792241,
+    "stop" : 1591102796230,
+    "duration" : 3989
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e0c71ce645bce7c",
+  "name" : "TC: 3.2 , Verify elements on movie Listing pages",
+  "time" : {
+    "start" : 1591092866860,
+    "stop" : 1591092905706,
+    "duration" : 38846
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d28a8c20d33f6ff",
+  "name" : "tc-47,To verify user is able to download csv",
+  "time" : {
+    "start" : 1591102072431,
+    "stop" : 1591102114060,
+    "duration" : 41629
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72ca68824d95a828",
+  "name" : "tc-37,To verify Watch Movie should not be shown in case of a TV entity",
+  "time" : {
+    "start" : 1591094774237,
+    "stop" : 1591094950455,
+    "duration" : 176218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25dc7b93faa7df98",
+  "name" : "tc-45,To verify user is able to share title",
+  "time" : {
+    "start" : 1591102015115,
+    "stop" : 1591102072421,
+    "duration" : 57306
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f07c15c54e316531",
+  "name" : "Verify Right Navigation Arrow is visible only when we hover on the last card on the right",
+  "time" : {
+    "start" : 1591091048625,
+    "stop" : 1591091051851,
+    "duration" : 3226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5761a6484ea35633",
+  "name" : "TC 3.24, Verify user is able to add the title in a list by clicking add to list ",
+  "time" : {
+    "start" : 1591093428658,
+    "stop" : 1591093475315,
+    "duration" : 46657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "151dd8b8b296cc8f",
+  "name" : "tc-27,Verify elements in header of Movie Details page",
+  "time" : {
+    "start" : 1591095041707,
+    "stop" : 1591095057084,
+    "duration" : 15377
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d95da76c29d99e3b",
+  "name" : "TC: 3.41, Verify user is able to go to Season level from Series level",
+  "time" : {
+    "start" : 1591093568024,
+    "stop" : 1591093585621,
+    "duration" : 17597
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "582e1b79fb45051f",
+  "name" : "Main Carousel: Verify user is able to add same movie in multiple lists",
+  "time" : {
+    "start" : 1591090562266,
+    "stop" : 1591090604099,
+    "duration" : 41833
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe64e791f7982a25",
+  "name" : "Movie Card: Verify user is able to clear search on click of Clear button",
+  "time" : {
+    "start" : 1591090878544,
+    "stop" : 1591090885336,
+    "duration" : 6792
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d08f361ccc56dd08",
+  "name" : "TC: 3.4, Verify pagination is present when there are more than 42 titles in search result",
+  "time" : {
+    "start" : 1591093933976,
+    "stop" : 1591093954629,
+    "duration" : 20653
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a34426e4d04da212",
+  "name" : "TC : 1.67, Verify Left Navigation Arrow is visible only when we hover on the first card on the left",
+  "time" : {
+    "start" : 1591091799149,
+    "stop" : 1591091801605,
+    "duration" : 2456
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2a332c570cd6439",
+  "name" : "TC: 1.57, Verify functionality of Add to List button",
+  "time" : {
+    "start" : 1591091659225,
+    "stop" : 1591091663593,
+    "duration" : 4368
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2bec2d9b4889f8a7",
+  "name" : "tc-43,To verify created list in add to list",
+  "time" : {
+    "start" : 1591101880391,
+    "stop" : 1591101921808,
+    "duration" : 41417
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b15fb240e965623c",
+  "name" : "tc-29,To verify watch trailer on watch trailer button click",
+  "time" : {
+    "start" : 1591095087715,
+    "stop" : 1591095110032,
+    "duration" : 22317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca4c1cc43104f6bc",
+  "name" : "TC: 3.24, Verify user is able to add the title in a list by clicking add to list ",
+  "time" : {
+    "start" : 1591093895686,
+    "stop" : 1591093933965,
+    "duration" : 38279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2b9ea55a780e51ed",
+  "name" : "Verify user is able to enter Email in email field",
+  "time" : {
+    "start" : 1591102791820,
+    "stop" : 1591102792231,
+    "duration" : 411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a94cf871f8c774f",
+  "name" : "TC: 1.62, Verify functionality of View Details button",
+  "time" : {
+    "start" : 1591098084320,
+    "stop" : 1591098096945,
+    "duration" : 12625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ef2720647fa20c0",
+  "name" : "TC: 1.94, Verify user is able to enter name and create new list from Carousel",
+  "time" : {
+    "start" : 1591091842098,
+    "stop" : 1591091877737,
+    "duration" : 35639
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e836e2098dd2ed69",
+  "name" : "TC: 3.21, Verify selecting titles shows footer pop up",
+  "time" : {
+    "start" : 1591093363704,
+    "stop" : 1591093381102,
+    "duration" : 17398
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6b0b535032e95e0",
+  "name" : "Verify user lands on login page",
+  "time" : {
+    "start" : 1591102770630,
+    "stop" : 1591102784043,
+    "duration" : 13413
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd8b77e69469f2da",
+  "name" : "Verify elements in Explore section",
+  "time" : {
+    "start" : 1591091057311,
+    "stop" : 1591091057554,
+    "duration" : 243
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96fab3c28d985a14",
+  "name" : "Verify functionality of Watch Movie button",
+  "time" : {
+    "start" : 1591091010786,
+    "stop" : 1591091041591,
+    "duration" : 30805
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f28ecd48f9b989f8",
+  "name" : "TC: 2.30, Verify user is able to download csv file on Click of Download CSV button from Fotter Pop Up",
+  "time" : {
+    "start" : 1591092686317,
+    "stop" : 1591092708069,
+    "duration" : 21752
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c072dc51fbe4df88",
+  "name" : "tc-50,To Verify User is able to share list by clicking on Share button in header",
+  "time" : {
+    "start" : 1591102135164,
+    "stop" : 1591102167071,
+    "duration" : 31907
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22841f790d69c227",
+  "name" : "TC: 1.97, Verify user is able to un-select any selected list(s)",
+  "time" : {
+    "start" : 1591092008337,
+    "stop" : 1591092012622,
+    "duration" : 4285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f583655ea1bb6d3c",
+  "name" : "Movie Card: Verify user is able to select list(s)",
+  "time" : {
+    "start" : 1591102813465,
+    "stop" : 1591102837289,
+    "duration" : 23824
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4bae13a973931577",
+  "name" : "TC: 3.44, Verify Episodes tab is visible when user is at Season level",
+  "time" : {
+    "start" : 1591093664569,
+    "stop" : 1591093668720,
+    "duration" : 4151
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96bd704126538be5",
+  "name" : "TC: 1.103, Verify user is able to add to multiple movies in same list",
+  "time" : {
+    "start" : 1591092239851,
+    "stop" : 1591092322143,
+    "duration" : 82292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "353d7f3b773b4ae1",
+  "name" : "My List: Verify click on checkbox opens the footer pop up",
+  "time" : {
+    "start" : 1591091125651,
+    "stop" : 1591091125777,
+    "duration" : 126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cae836fe6cb24520",
+  "name" : "Main Carousel: Verify user is able to select list(s)",
+  "time" : {
+    "start" : 1591090604106,
+    "stop" : 1591090624619,
+    "duration" : 20513
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65db53bb2729588d",
+  "name" : "tc-18,Verify Watch Now button is clikable and on click of it opens playout pop up",
+  "time" : {
+    "start" : 1591095411208,
+    "stop" : 1591095457728,
+    "duration" : 46520
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97e832b4d8c529c4",
+  "name" : "Veriify the Title is underlined(highlighted) when carousel moves to that slider",
+  "time" : {
+    "start" : 1591090398755,
+    "stop" : 1591090398782,
+    "duration" : 27
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cfe142c39ffd78a",
+  "name" : "Verify Right Navigation Arrow is disabled when we are on the last card in the list",
+  "time" : {
+    "start" : 1591091056844,
+    "stop" : 1591091057014,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2913877af45e3cd1",
+  "name" : "TC: 1.101, Verify user is able to select list(s) from search result",
+  "time" : {
+    "start" : 1591092224432,
+    "stop" : 1591092231298,
+    "duration" : 6866
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6f01aceb66d7d87",
+  "name" : "TC: 2.24, Verify on click on Share button, share pop up is shown",
+  "time" : {
+    "start" : 1591092520776,
+    "stop" : 1591092537471,
+    "duration" : 16695
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e86ca6cee8927b62",
+  "name" : "TC: 3.40, Verify values of All Seasons dropdown",
+  "time" : {
+    "start" : 1591093550869,
+    "stop" : 1591093568012,
+    "duration" : 17143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b2e894c985b4d047",
+  "name" : "Currated List: Verify the columns in the attached csv file",
+  "time" : {
+    "start" : 1591091369424,
+    "stop" : 1591091400897,
+    "duration" : 31473
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1e247cdfe17bfc0",
+  "name" : "Verify the options of Sorting and their functionality",
+  "time" : {
+    "start" : 1591091400907,
+    "stop" : 1591091403994,
+    "duration" : 3087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84c61adbf5ace266",
+  "name" : "tc-31,Verify elements in Synopsis section of Movie Details page",
+  "time" : {
+    "start" : 1591095179838,
+    "stop" : 1591095282808,
+    "duration" : 102970
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebed74330d6c62f8",
+  "name" : "Veirfy when there are more than 4 titles then progress bar auto-progresses",
+  "time" : {
+    "start" : 1591090341176,
+    "stop" : 1591090397780,
+    "duration" : 56604
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5e88ff67f9319772",
+  "name" : "tc-35,Verify elements in mylist details page",
+  "time" : {
+    "start" : 1591101444976,
+    "stop" : 1591101730961,
+    "duration" : 285985
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ef037e8d452d631",
+  "name" : "test_setconnection",
+  "time" : {
+    "start" : 1591091542606,
+    "stop" : 1591091545160,
+    "duration" : 2554
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3a24ff29a4abb8a",
+  "name" : "My List: Verify global header is present",
+  "time" : {
+    "start" : 1591099143563,
+    "stop" : 1591099145916,
+    "duration" : 2353
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f71a634da3c8d0a",
+  "name" : "TC: 3.39, Verify elements in header of TV Details page on Series Level",
+  "time" : {
+    "start" : 1591093534435,
+    "stop" : 1591093550859,
+    "duration" : 16424
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f81766198334b0f4",
+  "name" : "TC: 3.3, Verify user is able to search for titles by entering Actor/Character name or Movie/TV show name",
+  "time" : {
+    "start" : 1591092905717,
+    "stop" : 1591092926118,
+    "duration" : 20401
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88d512b6bfeeba1c",
+  "name" : "TC: 1.60, Verify functionality of Watch Trailer button",
+  "time" : {
+    "start" : 1591091703822,
+    "stop" : 1591091751301,
+    "duration" : 47479
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe7a2a08ddef661c",
+  "name" : "TC: 1.98, Verify user is able to add same movie in multiple lists",
+  "time" : {
+    "start" : 1591092012631,
+    "stop" : 1591092175555,
+    "duration" : 162924
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d4f19515047d2372",
+  "name" : "My List: Verify on click on Share button, share pop up is shown",
+  "time" : {
+    "start" : 1591091126066,
+    "stop" : 1591091134316,
+    "duration" : 8250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dabae7ed3a6b9b21",
+  "name" : "Movie Card: Verify user is able to un-select any selected list(s)",
+  "time" : {
+    "start" : 1591102837300,
+    "stop" : 1591102843554,
+    "duration" : 6254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52610c4acae06d48",
+  "name" : "TC : 3.51, Verify Trailer is shown as per selected levels",
+  "time" : {
+    "start" : 1591093790465,
+    "stop" : 1591093813593,
+    "duration" : 23128
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e507a0b55fdb2fb6",
+  "name" : "TC: 3.46, Verify elements in Episodes Tab at Season level",
+  "time" : {
+    "start" : 1591093703244,
+    "stop" : 1591093728197,
+    "duration" : 24953
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78bb1543767f6f05",
+  "name" : "test_setconnection1",
+  "time" : {
+    "start" : 1591093954641,
+    "stop" : 1591093957163,
+    "duration" : 2522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "451b3c5147de3c94",
+  "name" : "test_closeplayer",
+  "time" : {
+    "start" : 1591095468918,
+    "stop" : 1591095469814,
+    "duration" : 896
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b468cdd9285d725a",
+  "name" : "Movie Card: Verify user is abe to search a list from the search bar",
+  "time" : {
+    "start" : 1591090851352,
+    "stop" : 1591090865888,
+    "duration" : 14536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d5a549fdf89d3f9",
+  "name" : "TC: 3.16, Verify user is able to reach details page by clicking View Details button",
+  "time" : {
+    "start" : 1591093200992,
+    "stop" : 1591093219570,
+    "duration" : 18578
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "405a2c1b6e202af4",
+  "name" : "TC: 3.5, Verify user is able to filter titles by Genres",
+  "time" : {
+    "start" : 1591092934286,
+    "stop" : 1591092949064,
+    "duration" : 14778
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e341cd0778557557",
+  "name" : "Main Carousel: Verify user is able to add the movie in the created list",
+  "time" : {
+    "start" : 1591090552816,
+    "stop" : 1591090562255,
+    "duration" : 9439
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecf563c6a81b003f",
+  "name" : "TC: 3.20, Verify on click of Title name redirectes to Title details page",
+  "time" : {
+    "start" : 1591093302381,
+    "stop" : 1591093363698,
+    "duration" : 61317
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9bdc68aa47ff6cb4",
+  "name" : "tc-32,Verify elements in Trailer section of Movie Details page",
+  "time" : {
+    "start" : 1591095282812,
+    "stop" : 1591095322378,
+    "duration" : 39566
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6dd6474c4c5a7420",
+  "name" : "Verify elements present in Movie image slider",
+  "time" : {
+    "start" : 1591090468565,
+    "stop" : 1591090510363,
+    "duration" : 41798
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6084ef0fd8ff410b",
+  "name" : "tc-28,To verify watch movie on movie button click",
+  "time" : {
+    "start" : 1591095057094,
+    "stop" : 1591095087707,
+    "duration" : 30613
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a3d8592df0877ea",
+  "name" : "Television: Verify user is able to search for titles by entering Actor/Character name or Movie/TV show name",
+  "time" : {
+    "start" : 1591091442067,
+    "stop" : 1591091445056,
+    "duration" : 2989
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3b2e2a63f082ec9",
+  "name" : "TC: 3.9, Verify user is able to filter titles by Year",
+  "time" : {
+    "start" : 1591093010740,
+    "stop" : 1591093026478,
+    "duration" : 15738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4410b0a668e321b0",
+  "name" : "TC: 3.6, Verify user is able to apply multiple Genres filters",
+  "time" : {
+    "start" : 1591092949077,
+    "stop" : 1591092972249,
+    "duration" : 23172
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8cead55a6d633a5",
+  "name" : "tc-30,To verify added movie in the list",
+  "time" : {
+    "start" : 1591095110046,
+    "stop" : 1591095179831,
+    "duration" : 69785
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c3ea5e44a60a848",
+  "name" : "TC: 3.17, Verify user is able to add the title in a list by clicking add to list",
+  "time" : {
+    "start" : 1591093219583,
+    "stop" : 1591093279068,
+    "duration" : 59485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "15c66ffafa63a059",
+  "name" : "Verify carousel image set by admin is visible",
+  "time" : {
+    "start" : 1591102784046,
+    "stop" : 1591102784069,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "844d41bc72183469",
+  "name" : "Movie Card: Verify user is able to add the movie in the created list",
+  "time" : {
+    "start" : 1591090798182,
+    "stop" : 1591090820500,
+    "duration" : 22318
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "db56984140acb18c",
+  "name" : "Television: Verify elements on Listing pages",
+  "time" : {
+    "start" : 1591097671627,
+    "stop" : 1591097682748,
+    "duration" : 11121
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dda4dae7c84c6391",
+  "name" : "Veirfy on click of Roar logo in header user is redirected to Homepage",
+  "time" : {
+    "start" : 1591090431428,
+    "stop" : 1591090442362,
+    "duration" : 10934
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a657a0376ba97f",
+  "name" : "TC: 3.23, Verify user is able to Share Title(s) from footer pop up",
+  "time" : {
+    "start" : 1591093383316,
+    "stop" : 1591093428644,
+    "duration" : 45328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66260590aa269820",
+  "name" : "Television: Verify user is able to apply multiple Rating filters",
+  "time" : {
+    "start" : 1591091460956,
+    "stop" : 1591091463901,
+    "duration" : 2945
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d552cbd7d5c280f0",
+  "name" : "TC: 1.69, Verify Left Navigation Arrow is disabled when we are on the first card in the list",
+  "time" : {
+    "start" : 1591091802348,
+    "stop" : 1591091814402,
+    "duration" : 12054
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63cc66ef0b7e91b1",
+  "name" : "Verify user is able to download csv file on Click of Download CSV button from Fotter Pop Up",
+  "time" : {
+    "start" : 1591091404005,
+    "stop" : 1591091431265,
+    "duration" : 27260
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c00526be9c0174f3",
+  "name" : "TC: 3.8, Verify user is able to apply multiple Rating filters",
+  "time" : {
+    "start" : 1591092987578,
+    "stop" : 1591093010727,
+    "duration" : 23149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d351a0f0c938563",
+  "name" : "Verify hover behavior on movie cards",
+  "time" : {
+    "start" : 1591090992997,
+    "stop" : 1591091010776,
+    "duration" : 17779
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "267b67dda04b64a9",
+  "name" : "tc-31,Verify elements in synopsis section in tv details page",
+  "time" : {
+    "start" : 1591095322387,
+    "stop" : 1591095348363,
+    "duration" : 25976
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8d7a5659d1b42e4",
+  "name" : "Verify elements present in global header",
+  "time" : {
+    "start" : 1591102811157,
+    "stop" : 1591102813456,
+    "duration" : 2299
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f611416ccc76f20a",
+  "name" : "TC: 3.47, Verify elements in header of TV details page on episode level",
+  "time" : {
+    "start" : 1591093728209,
+    "stop" : 1591093752733,
+    "duration" : 24524
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40d7e5fae1bb5f5a",
+  "name" : "TC: 3.49, Verify user is able to play episode by clicking the play button. ",
+  "time" : {
+    "start" : 1591093760838,
+    "stop" : 1591093790455,
+    "duration" : 29617
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b564113f5529b3a",
+  "name" : "TC: 1.49, Verify Recently Watched slider is displayed if user watches a movie",
+  "time" : {
+    "start" : 1591091632908,
+    "stop" : 1591091633036,
+    "duration" : 128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae20725a2b3db202",
+  "name" : "Verify maximum 4 titles are shown on the Progress Bar",
+  "time" : {
+    "start" : 1591090398953,
+    "stop" : 1591090406998,
+    "duration" : 8045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b16d4c6e6ec077fd",
+  "name" : "tc-39,Verify elements list view is displayed",
+  "time" : {
+    "start" : 1591101756900,
+    "stop" : 1591101757087,
+    "duration" : 187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "707f35f49c666f4a",
+  "name" : "Television: Verify user is able to filter titles by Rating",
+  "time" : {
+    "start" : 1591091453657,
+    "stop" : 1591091460946,
+    "duration" : 7289
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f15c3bd16c191859",
+  "name" : "TC: 2.22, Verify click on checkbox opens the footer pop up",
+  "time" : {
+    "start" : 1591092499893,
+    "stop" : 1591092512364,
+    "duration" : 12471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3cd5f79422cc05e2",
+  "name" : "Verify click behavior of Right Navigation arrow",
+  "time" : {
+    "start" : 1591091051855,
+    "stop" : 1591091056042,
+    "duration" : 4187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "701c3cb4d84c754b",
+  "name" : "TC: 33, Verify user is able to play the trailer of the movie",
+  "time" : {
+    "start" : 1591095376956,
+    "stop" : 1591095394056,
+    "duration" : 17100
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9e500e298faa8024",
+  "name" : "TC: 1.102, Verify user is able to un-select list(s) from search result",
+  "time" : {
+    "start" : 1591092231307,
+    "stop" : 1591092239840,
+    "duration" : 8533
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b806ee54ea59352",
+  "name" : "Television: Verify user is able to filter titles by Year",
+  "time" : {
+    "start" : 1591091463904,
+    "stop" : 1591091474295,
+    "duration" : 10391
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "271f0b799bb3d4b2",
+  "name" : "TC: 3.22, Verify user is able to download CSV file of the selected title",
+  "time" : {
+    "start" : 1591093381114,
+    "stop" : 1591093383306,
+    "duration" : 2192
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6861e2da43a65ec",
+  "name" : "Verify elements present in Carousel",
+  "time" : {
+    "start" : 1591090468369,
+    "stop" : 1591090468558,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ac3e937d3b4987a",
+  "name" : "Verify on click of Logout button, user is successfully logged out",
+  "time" : {
+    "start" : 1591090442365,
+    "stop" : 1591090462887,
+    "duration" : 20522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c404ef3bb97ccf7e",
+  "name" : "tc-38,Verify list view is displayed",
+  "time" : {
+    "start" : 1591101751610,
+    "stop" : 1591101756895,
+    "duration" : 5285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a77837b174fb61cc",
+  "name" : "Main Carousel: Verify user is able to select list(s) from search result",
+  "time" : {
+    "start" : 1591090633283,
+    "stop" : 1591090639642,
+    "duration" : 6359
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7b9cd1a2ba49d8c",
+  "name" : "Main Carousel: Verify on click of Add to List button, Add List pop up is opened",
+  "time" : {
+    "start" : 1591096798683,
+    "stop" : 1591096814581,
+    "duration" : 15898
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "420e3944fcac78d2",
+  "name" : "verify user is successfully logged in",
+  "time" : {
+    "start" : 1591102796242,
+    "stop" : 1591102811146,
+    "duration" : 14904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32dc3e1315c86f7e",
+  "name" : "Movie Card: Verify user is able to enter name and create new list from Carousel",
+  "time" : {
+    "start" : 1591090752239,
+    "stop" : 1591090798177,
+    "duration" : 45938
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef7f8452e0952f2c",
+  "name" : "TC: 3.19, Verify the layout of cards in List view",
+  "time" : {
+    "start" : 1591093279078,
+    "stop" : 1591093302363,
+    "duration" : 23285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "625d25ce654e987",
+  "name" : "TC: 2.20, Verify user is able to select the list by clicking on the checkbox",
+  "time" : {
+    "start" : 1591092482902,
+    "stop" : 1591092491231,
+    "duration" : 8329
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45a1f44dc134449",
+  "name" : "Verify elements for each Movie card",
+  "time" : {
+    "start" : 1591091057022,
+    "stop" : 1591091057295,
+    "duration" : 273
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e04b371ab22b107f",
+  "name" : "TC: 1.65, Verify click behavior of Right Navigation arrow",
+  "time" : {
+    "start" : 1591091776001,
+    "stop" : 1591091780138,
+    "duration" : 4137
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8fc1eaf523411f98",
+  "name" : "Verify View Details button is clickable and on click redirect to movie details page",
+  "time" : {
+    "start" : 1591090936081,
+    "stop" : 1591090948471,
+    "duration" : 12390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4439998b4b5d4be4",
+  "name" : "TC: 1.104, Verify only 10 movie card is shown",
+  "time" : {
+    "start" : 1591092322154,
+    "stop" : 1591092326209,
+    "duration" : 4055
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ea71339e310a41b",
+  "name" : "Verify user is able to move to previous slider by clicking Left Nagivation Arrow",
+  "time" : {
+    "start" : 1591090933860,
+    "stop" : 1591090936073,
+    "duration" : 2213
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b9182eb12443c4f",
+  "name" : "TC: 3.7,Verify user is able to filter titles by Rating",
+  "time" : {
+    "start" : 1591092972260,
+    "stop" : 1591092987567,
+    "duration" : 15307
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64f37b570837d6ea",
+  "name" : "Verify Movie links are clickable and redirects to correct page",
+  "time" : {
+    "start" : 1591090407005,
+    "stop" : 1591090431417,
+    "duration" : 24412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e056e566b7dc61b5",
+  "name" : "TC: 3.45, Verify user is able to Add TV Season to list(s)",
+  "time" : {
+    "start" : 1591093668731,
+    "stop" : 1591093703235,
+    "duration" : 34504
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fccbd0213c8a5cb7",
+  "name" : "TC: 3.10, Verify user is able to filter with combination of Genre,Rating&Year filters ",
+  "time" : {
+    "start" : 1591093026491,
+    "stop" : 1591093061843,
+    "duration" : 35352
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e589d0c99fb8d68b",
+  "name" : "Verify the titles are clickable and clicking them take the carousel to that slider",
+  "time" : {
+    "start" : 1591090948483,
+    "stop" : 1591090967666,
+    "duration" : 19183
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5225caa37a4b25e8",
+  "name" : "TC: 1.109, Verify user is able to see User Created List in My List section of homepage",
+  "time" : {
+    "start" : 1591092385107,
+    "stop" : 1591092415309,
+    "duration" : 30202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86b6cb98dcdb52a3",
+  "name" : "Television: Verify user is able to filter titles by Genres",
+  "time" : {
+    "start" : 1591097284375,
+    "stop" : 1591097289076,
+    "duration" : 4701
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b64d0ca53bc12c6",
+  "name" : "Verify user is able to reach details page by clicking View Details button",
+  "time" : {
+    "start" : 1591097339966,
+    "stop" : 1591097349501,
+    "duration" : 9535
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f02196af6c6524d8",
+  "name" : "TC: 1.93, Verify on click of Add to List button, Add List pop up is opened",
+  "time" : {
+    "start" : 1591091814405,
+    "stop" : 1591091842088,
+    "duration" : 27683
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30762c312351832c",
+  "name" : "TC: 2.23, Verify on click on List name user is redirected to List Detail page",
+  "time" : {
+    "start" : 1591092512378,
+    "stop" : 1591092520765,
+    "duration" : 8387
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "213c38e9a50096f5",
+  "name" : "Verify elements for each Movie List",
+  "time" : {
+    "start" : 1591091041600,
+    "stop" : 1591091047635,
+    "duration" : 6035
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe1f7d5b91b53fe0",
+  "name" : "TC: 3.52, Verify Photos is shown as per selected levels",
+  "time" : {
+    "start" : 1591093814164,
+    "stop" : 1591093837271,
+    "duration" : 23107
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
